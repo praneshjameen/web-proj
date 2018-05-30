@@ -11,5 +11,5 @@
       "type":"PaymentMethodPaypal",
       "attributes":{
          "linked-email":"ryan@gosling.io",
-      }
+      }}
 }
