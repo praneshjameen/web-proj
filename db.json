@@ -1,17 +1,1 @@
-{
-   "data":[{
-   "id":"1",
-   "type":"user",
-   "attributes":{
-      "name":"Anfanie Farmeo"
-   }
-   },
-   {
-      "id":"2",
-      "type":"PaymentMethodPaypal",
-      "attributes":{
-         "linked-email":"ryan@gosling.io",
-      }
-} ]
-               }
-
+{"data":[{"type":"r","id":"1","attributes":{"title":"JSON API paints my bikeshed!"}},{"type":"r","id":"2","attributes":{"title":"JSON API dfasdfmy bikeshed!"}}]}
