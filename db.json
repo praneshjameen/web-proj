@@ -1,5 +1,6 @@
-{
-   "data":[{
+{"data":{
+   children:[
+   "data":{
    "id":"1",
    "type":"user",
    "attributes":{
@@ -11,5 +12,7 @@
       "type":"PaymentMethodPaypal",
       "attributes":{
          "linked-email":"ryan@gosling.io",
-      }}]
+      }
+} ]
+}
 }
