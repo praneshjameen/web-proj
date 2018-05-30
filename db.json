@@ -1,6 +1,6 @@
 {"data":{
-   "children":[
-   "data":{
+   "children":{
+   "data":[{
    "id":"1",
    "type":"user",
    "attributes":{
@@ -14,5 +14,6 @@
          "linked-email":"ryan@gosling.io",
       }
 } ]
+               }
 }
 }
