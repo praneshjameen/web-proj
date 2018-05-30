@@ -1,9 +1,15 @@
 {
    "data":{
-   "id":"8675309",
+   "id":"1",
    "type":"user",
    "attributes":{
       "name":"Anfanie Farmeo"
    }
-   }
+   },
+   {
+      "id":"2",
+      "type":"PaymentMethodPaypal",
+      "attributes":{
+         "linked-email":"ryan@gosling.io",
+      }
 }
