@@ -1,4 +1,22 @@
 {"data":[{"type":"r","id":"1",
           "attributes":{"title":"article 1"}},
          {"type":"r","id":"2",
-          "attributes":{"title":"article 2"}}]}
+          "attributes":{"title":"article 2"}},
+         {
+   "id":"1",
+   "type":"tag",
+   "attributes":{
+      "name":"tag1"
+   }},
+   {
+   "id":"2",
+   "type":"tag",
+   "attributes":{
+      "name":"tag2"
+   }},
+   {
+   "id":"3",
+   "type":"tag",
+   "attributes":{
+      "name":"tag3"
+   }}]}
